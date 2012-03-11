@@ -6,6 +6,7 @@
  * Author: David Biňovec
  * Author URI: http://david.binda.cz
  * Version: 1.0
+ * License: GPLv3
  */
 
 add_action('admin_menu', 'register_custom_roles_for_author_settins_submenu_page');
