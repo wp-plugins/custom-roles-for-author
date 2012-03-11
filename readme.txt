@@ -4,6 +4,7 @@ Tags: author, custom role, role, custom role post author, post author
 Requires at least: 3.1.
 Tested up to: 3.3.1
 Stable tag: 1.0
+License: GPLv3
 
 Allows to set users with custom role as post/page/custom_post_type author.
 
