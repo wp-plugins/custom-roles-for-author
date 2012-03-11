@@ -10,9 +10,9 @@ Allows to set users with custom role as post author.
 
 == Description ==
 
-This plugin allows you to set users with custom role as post, page or custom post type author.
+This plugin allows you to set users with [custom role](http://codex.wordpress.org/Function_Reference/add_role) as post, page or custom post type author.
 
-In addition, this plugin allows you to set what default roles (even subscriber, contributor) shoud appear in author dropdown list.
+In addition, this plugin allows you to set what [default roles](http://codex.wordpress.org/Roles_and_Capabilities) (even subscriber, contributor) shoud appear in author dropdown list.
 
 Plugin developed with WP_DEBUG set true on WordPress 3.3.1 => No notices, warnings or errors 
 
