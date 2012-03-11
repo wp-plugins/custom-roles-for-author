@@ -6,11 +6,11 @@ Tested up to: 3.3.1
 Stable tag: 1.0
 License: GPLv3
 
-Allows to set users with custom role as post/page/custom_post_type author.
+Allows to set users with custom role as post author.
 
 == Description ==
 
-This plugin allows you to set users with custom role as post/page/custom_post_type author.
+This plugin allows you to set users with custom role as post, page or custom post type author.
 
 In addition, this plugin allows you to set what default roles (even subscriber, contributor) shoud appear in author dropdown list.
 
