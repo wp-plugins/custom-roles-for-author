@@ -23,6 +23,13 @@ Plugin developed with "**define('WP_DEBUG', true);**" on WordPress 3.3.1 => **No
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Set desired user roles to appear in authors drop down menu in Users -> Custom roles 4 author
 
+== Frequently Asked Questions ==
+
+= I don't see author meta box =
+
+You must enable that box via "Screen options" tab in upper right hand corner. 
+
+
 == Changelog ==
 
 = 1.0 =
